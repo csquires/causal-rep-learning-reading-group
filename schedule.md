@@ -1,2 +1,2 @@
 
-11/30/21 - Introductions, Discussion of format
+* **11/30/21** - Introductions, Discussion of format
