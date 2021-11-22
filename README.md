@@ -2,4 +2,4 @@
 
 Find the schedule [here](schedule.md).
 
-Find the list of suggested papers here.
+Find (and add to!) the list of suggested papers [here](suggested-papers.md).
