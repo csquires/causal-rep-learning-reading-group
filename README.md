@@ -2,7 +2,7 @@
 
 **Schedule**
 
-Find the schedule [here](schedule.md).
+Find the schedule of papers we'll be reading [here](schedule.md). Sign up to present a paper!
 
 **Suggested papers**
 
