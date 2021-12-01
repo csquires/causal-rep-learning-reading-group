@@ -4,10 +4,10 @@ Note that **authors are not allowed to present their own papers**, so that this 
 
 * **12/01/21** - Overview of topics, discussion of logistics, and introductions
 
-* **12/15/21** - [Towards Causal Representation Learning](https://arxiv.org/abs/2102.11107): presented by _______
+* **12/15/21** - [Towards Causal Representation Learning](https://arxiv.org/abs/2102.11107), presented by Jason Hartford
 
-Next 3 papers:
+* **01/05/22** - [Generalized Independent Noise Condition for Estimating Latent Variable Causal Graphs](https://proceedings.neurips.cc/paper/2020/file/aa475604668730af60a0a87cc92604da-Paper.pdf), presented by Elan Rosenfeld
 
-* [Visual Causal Feature Learning](https://arxiv.org/pdf/1412.2309.pdf)
+* **01/19/22** - [Visual Causal Feature Learning](https://arxiv.org/pdf/1412.2309.pdf), presented by ________
 
-* [Generalized Independent Noise Condition for Estimating Latent Variable Causal Graphs](https://proceedings.neurips.cc/paper/2020/file/aa475604668730af60a0a87cc92604da-Paper.pdf)
+* **02/02/22** - 
