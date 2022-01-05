@@ -12,7 +12,7 @@ Find (and add to!) the list of suggested papers [here](suggested-papers.md).
 
 Our Slack is [causal-representation.slack.com](causal-representation.slack.com).
 
-To be added to our Slack or our mailing list, send me an email at csquires@mit.edu.
+To be added to our Slack or our mailing list, send me an email at csquires@mit.edu. Similarly, email me your Github username to get edit access to this repository.
 
 **Meetings**
 
