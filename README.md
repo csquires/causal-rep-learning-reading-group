@@ -16,4 +16,6 @@ To be added to our Slack or our mailing list, send me an email at csquires@mit.e
 
 **Meetings**
 
-Meetings will take place on Wednesdays, 2-3pm EST, at https://mit.zoom.us/j/96140287555. A password will be sent on the mailing list and on Slack prior to the meeting. Please do not share the meeting link or password.
+Meetings take place every other Wednesday, 2-3pm EST, at https://mit.zoom.us/j/96140287555. A password will be sent on the mailing list and on Slack prior to the meeting. Please do not share the meeting link or password.
+
+The meetings are recorded and saved in a Dropbox folder. Please see Slack or your email for the link to this folder, or send me an email.
