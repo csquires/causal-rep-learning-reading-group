@@ -10,4 +10,16 @@ Note that **authors are not allowed to present their own papers**, so that this 
 
 * **01/19/22** - [Visual Causal Feature Learning](https://arxiv.org/pdf/1412.2309.pdf), presented by ________
 
-* **02/02/22** - 
+* **02/02/22** - presented by Claudia Shi
+
+* **02/16/22** - presented by Yixin Wang
+
+* **03/02/22** - 
+
+* **03/16/22** - 
+
+* **03/30/22** - 
+
+* **04/13/22** - 
+
+* **04/27/22** -
