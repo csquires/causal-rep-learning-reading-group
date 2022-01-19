@@ -8,7 +8,7 @@ Note that **authors are not allowed to present their own papers**, so that this 
 
 * **01/05/22** - [Generalized Independent Noise Condition for Estimating Latent Variable Causal Graphs](https://proceedings.neurips.cc/paper/2020/file/aa475604668730af60a0a87cc92604da-Paper.pdf), presented by Elan Rosenfeld
 
-* **01/19/22** - [Visual Causal Feature Learning](https://arxiv.org/pdf/1412.2309.pdf), presented by ________
+* **01/19/22** - CANCELLED. See the Simons Institute [causality bootcamp](https://simons.berkeley.edu/workshops/causality-2022-bc) instead.
 
 * **02/02/22** - presented by Claudia Shi
 
