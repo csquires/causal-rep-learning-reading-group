@@ -1,5 +1,3 @@
-For each paper, we will have two special roles: a *presenter* and a *discussant*.
-
 Note that **authors are not allowed to present their own papers**, so that this stays a proper reading group and doesn't become a seminar.
 
 * **12/01/21** - Overview of topics, discussion of logistics, and introductions. [slides](slides/causal-rep-learning-reading-group.pdf)
