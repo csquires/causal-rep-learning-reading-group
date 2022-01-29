@@ -8,7 +8,7 @@ Note that **authors are not allowed to present their own papers**, so that this 
 
 * **01/19/22** - CANCELLED. See the Simons Institute [causality bootcamp](https://simons.berkeley.edu/workshops/causality-2022-bc) instead.
 
-* **02/02/22** - presented by Claudia Shi
+* **02/02/22** - [Visual Causal Feature Learning]( https://arxiv.org/pdf/1412.2309.pdf) presented by Chandler Squires
 
 * **02/16/22** - presented by Yixin Wang
 
