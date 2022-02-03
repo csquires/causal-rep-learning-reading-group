@@ -10,7 +10,7 @@ Note that **authors are not allowed to present their own papers**, so that this 
 
 * **02/02/22** - [Visual Causal Feature Learning]( https://arxiv.org/pdf/1412.2309.pdf) presented by Chandler Squires
 
-* **02/16/22** - presented by Yixin Wang
+* **02/16/22** - [Environment Inference for Invariant Learning](https://arxiv.org/abs/2010.07249) presented by Yixin Wang
 
 * **03/02/22** - 
 
