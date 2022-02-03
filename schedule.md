@@ -14,7 +14,7 @@ Note that **authors are not allowed to present their own papers**, so that this 
 
 * **03/02/22** - 
 
-* **03/16/22** - 
+* **03/16/22** - presented by Jeff Adams
 
 * **03/30/22** - 
 
