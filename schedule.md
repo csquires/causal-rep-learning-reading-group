@@ -14,7 +14,7 @@ Note that **authors are not allowed to present their own papers**, so that this 
 
 * **03/02/22** - 
 
-* **03/16/22** - presented by Jeff Adams
+* **03/16/22** - [Abstracting Causal Models](https://www.cs.cornell.edu/home/halpern/papers/abstraction.pdf) presented by Jeff Adams
 
 * **03/30/22** - 
 
