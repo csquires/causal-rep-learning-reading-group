@@ -20,4 +20,4 @@ Note that **authors are not allowed to present their own papers**, so that this 
 
 * **04/13/22** - 
 
-* **04/27/22** - [http://proceedings.mlr.press/v139/zimmermann21a/zimmermann21a.pdf](http://proceedings.mlr.press/v139/zimmermann21a/zimmermann21a.pdf) presented by Kartik Ahuja
+* **04/27/22** - [Contrastive Learning Inverts the Data Generating Process](http://proceedings.mlr.press/v139/zimmermann21a/zimmermann21a.pdf) presented by Kartik Ahuja
