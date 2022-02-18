@@ -18,6 +18,10 @@ Note that **authors are not allowed to present their own papers**, so that this 
 
 * **03/30/22** - [Desiderata for Representation Learning: A Causal Perspective](https://arxiv.org/abs/2109.03795) presented by ________
 
-* **04/13/22** - 
+* **04/13/22** - CANCELLED for the Causal Learning and Reasoning (CLeaR) conference.
 
 * **04/27/22** - [Contrastive Learning Inverts the Data Generating Process](http://proceedings.mlr.press/v139/zimmermann21a/zimmermann21a.pdf) presented by Kartik Ahuja
+
+* **05/11/22** - 
+
+* **05/25/22** -
