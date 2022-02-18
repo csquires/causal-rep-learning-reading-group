@@ -12,7 +12,7 @@ Note that **authors are not allowed to present their own papers**, so that this 
 
 * **02/16/22** - [Environment Inference for Invariant Learning](https://arxiv.org/abs/2010.07249) presented by Yixin Wang
 
-* **03/02/22** - 
+* **03/02/22** - [Properties from Mechanisms: An Equivariance Perspective on Identifiable Representation Learning](https://arxiv.org/abs/2110.15796) presented by Gemma Moran
 
 * **03/16/22** - [Abstracting Causal Models](https://www.cs.cornell.edu/home/halpern/papers/abstraction.pdf) presented by Jeff Adams
 
