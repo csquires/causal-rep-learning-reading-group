@@ -16,9 +16,9 @@ Note that **authors are not allowed to present their own papers**, so that this 
 
 * **03/16/22** - [Abstracting Causal Models](https://www.cs.cornell.edu/home/halpern/papers/abstraction.pdf) presented by Jeff Adams
 
-* **03/30/22** - [Desiderata for Representation Learning: A Causal Perspective](https://arxiv.org/abs/2109.03795) presented by ________
+* **03/30/22** - 
 
-* **04/13/22** - CANCELLED for the Causal Learning and Reasoning (CLeaR) conference.
+* **04/13/22** - [Desiderata for Representation Learning: A Causal Perspective](https://arxiv.org/abs/2109.03795) presented by Hao Liu
 
 * **04/27/22** - [Contrastive Learning Inverts the Data Generating Process](http://proceedings.mlr.press/v139/zimmermann21a/zimmermann21a.pdf) presented by Kartik Ahuja
 
