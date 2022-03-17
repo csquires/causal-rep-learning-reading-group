@@ -16,7 +16,7 @@ Note that **authors are not allowed to present their own papers**, so that this 
 
 * **03/16/22** - [Abstracting Causal Models](https://www.cs.cornell.edu/home/halpern/papers/abstraction.pdf) presented by Jeff Adams
 
-* **03/30/22** - 
+* **03/30/22** - [Counterfactual Invariance to Spurious Correlations: Why and How to Pass Stress Tests](https://arxiv.org/abs/2106.00545) presented by Dhanya Sridhar
 
 * **04/13/22** - [Desiderata for Representation Learning: A Causal Perspective](https://arxiv.org/abs/2109.03795) presented by Hao Liu
 
