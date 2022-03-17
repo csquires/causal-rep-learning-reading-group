@@ -10,3 +10,5 @@
 * [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf) - Hafner, Lillicrap, Ba, Norouzi
 
 * [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/pdf/1811.04551.pdf) - Hafner, Lillicrap, Fischer, Villegas, Ha, Lee, Davidson
+
+* [Identifiable Deep Generative Models via Sparse Decoding](https://arxiv.org/abs/2110.10804) - Moran, Sridhar, Wang, and Blei
