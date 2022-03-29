@@ -12,3 +12,5 @@
 * [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/pdf/1811.04551.pdf) - Hafner, Lillicrap, Fischer, Villegas, Ha, Lee, Davidson
 
 * [Identifiable Deep Generative Models via Sparse Decoding](https://arxiv.org/abs/2110.10804) - Moran, Sridhar, Wang, and Blei
+
+* [Learning Latent Causal Dynamics](https://arxiv.org/pdf/2202.04828.pdf) - Yao, Chen, and Zhang, 2022
