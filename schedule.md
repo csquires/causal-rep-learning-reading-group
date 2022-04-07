@@ -18,7 +18,9 @@ Note that **authors are not allowed to present their own papers**, so that this 
 
 * **03/30/22** - [Counterfactual Invariance to Spurious Correlations: Why and How to Pass Stress Tests](https://arxiv.org/abs/2106.00545) (Veitch, D'Amour, Yadlowsky, Eisenstein), presented by **Dhanya Sridhar**
 
-* **04/13/22** - [Desiderata for Representation Learning: A Causal Perspective](https://arxiv.org/abs/2109.03795) (Wang and Jordan), presented by **Hao Liu**
+* **04/20/22** - DELAYED by one week for the CLeaR conference.
+
+* **04/20/22** - [Desiderata for Representation Learning: A Causal Perspective](https://arxiv.org/abs/2109.03795) (Wang and Jordan), presented by **Hao Liu**
 
 * **04/27/22** - [Contrastive Learning Inverts the Data Generating Process](http://proceedings.mlr.press/v139/zimmermann21a/zimmermann21a.pdf) (Zimmermann, Sharma, Schneider, Bethge, and Brendel), presented by **Kartik Ahuja**
 
