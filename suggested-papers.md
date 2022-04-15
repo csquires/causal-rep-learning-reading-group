@@ -14,3 +14,5 @@
 * [Identifiable Deep Generative Models via Sparse Decoding](https://arxiv.org/abs/2110.10804) - Moran, Sridhar, Wang, and Blei
 
 * [Learning Latent Causal Dynamics](https://arxiv.org/pdf/2202.04828.pdf) - Yao, Chen, and Zhang, 2022
+
+* [Structure by Architecture: Disentangled Representations without Regularization](https://arxiv.org/abs/2006.07796) - Leeb, Lanzillotta, Annadani, Besserve, Bauer, and Schölkopf, 2020
