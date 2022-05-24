@@ -31,3 +31,13 @@ Note that **authors are not allowed to present their own papers**, so that this 
 * **06/08/22** - [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf) (Hafner, Lillicrap, Ba, Norouzi), presented by **Jiaqi Zhang**
 
 * **06/22/22** - [Identifiable Deep Generative Models via Sparse Decoding](https://arxiv.org/abs/2110.10804) (Moran, Sridhar, Wang, and Blei), presented by **Yoav Wald**
+
+* **07/06/22** - 
+
+* **07/20/22** - 
+
+* **08/03/22** - CANCELLED for UAI.
+
+* **08/17/22** -
+
+* **08/31/22** -
