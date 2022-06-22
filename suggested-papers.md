@@ -12,3 +12,5 @@
 * [Learning Latent Causal Dynamics](https://arxiv.org/pdf/2202.04828.pdf) - Yao, Chen, and Zhang, 2022
 
 * [Structure by Architecture: Disentangled Representations without Regularization](https://arxiv.org/abs/2006.07796) - Leeb, Lanzillotta, Annadani, Besserve, Bauer, Schölkopf, 2020
+
+* [CITRIS: Causal Identifiability from Temporal Intervened Sequences](https://arxiv.org/abs/2202.03169) - Phillip Lippe, Sara Magliacane, Sindy Löwe, Yuki M. Asano, Taco Cohen, Efstratios Gavves
