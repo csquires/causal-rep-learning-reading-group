@@ -1,5 +1,8 @@
 # Causal Representation Learning Reading Group
 
+>> **Note**
+>> This reading group is no longer active. See the new online talk series: **(link coming soon)** for more opportunities to discuss causal representation learning and related topics.
+
 **Schedule**
 
 Find the schedule of papers we'll be reading [here](schedule.md). Sign up to present a paper!
